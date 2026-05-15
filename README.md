@@ -10,7 +10,7 @@ I am an IT Professional and Cloud & Network Engineering student specializing in 
 - **Platforms & Tools:** Salesforce Administration, Git/GitHub
 
 ## 📈 Current Projects
-- **[ThinkPad T430 Homelab](./t430-homelab):** Converting legacy hardware into a production-grade headless private cloud node running Docker and Samba NAS.
+- **[ThinkPad T430 Homelab](https://github.com/isaacmadearis/t430-homelab):** Converting legacy hardware into a production-grade headless private cloud node running Docker and Samba NAS.
 - **Active Directory Integration:** Deploying containerized Samba AD DC for enterprise identity and access management testing.
 <!--
 **isaacmadearis/isaacmadearis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
